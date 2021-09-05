@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-
+// 今天是第一天哦 坚持
 ReactDOM.render(
   <React.StrictMode>
     <App />
